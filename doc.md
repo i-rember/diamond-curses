@@ -34,8 +34,8 @@ Speed is doubled, and all tiles have another tile with the same angle appended a
 ### <10-X> - Butterfly Planet but it's a bit off
 Any non-onbeat sections have their angles altered greatly.
 
-### <11-X> - Heracles but...?
-Not made (yet).
+### <11-X> - Heracles but inferior angles have outside midspins
+Inferior-angled tiles have a midspin on their reflex side, intersecting the angle's bisector.
 
 ### <12-X> - Artificial Chariot but...?
 Not made (yet).
