@@ -37,5 +37,19 @@ Any non-onbeat sections have their angles altered greatly.
 ### <11-X> - Heracles but inferior angles have outside midspins
 Inferior-angled tiles have a midspin on their reflex side, intersecting the angle's bisector.
 
-### <12-X> - Artificial Chariot but...?
-Not made (yet).
+### <12-X> - Artificial Chariot but all non-horizontal segments are symmetrical
+Any track segments not comprised of horizontal tiles are altered such that they are symmetrical along the horizontal or vertical axes, or 180-degree rotation.
+
+## <B-X> - No Thanks
+- <1-X>
+- <2-X>
+- <3-X>
+- <4-X>
+- <5-X>
+- <6-X> + <7-X>
+- <8-X>
+- <10-X>
+- <9-X>
+- <11-X>
+- <12-X>
+- StopIteration
