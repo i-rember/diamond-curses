@@ -40,7 +40,7 @@ Inferior-angled tiles have a midspin on their reflex side, intersecting the angl
 ### <12-X> - Artificial Chariot but all non-horizontal segments are symmetrical
 Any track segments not comprised of horizontal tiles are altered such that they are symmetrical along the horizontal or vertical axes, or 180-degree rotation.
 
-## <B-X> - No Thanks
+## \<B-X> - No Thanks
 - <1-X>
 - <2-X>
 - <3-X>
