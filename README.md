@@ -1,4 +1,4 @@
-# cursedadofai
+# Diamond Curses
 This is a series of cursed versions of ADOFAI levels I've made.
 
 Files in this repository:
