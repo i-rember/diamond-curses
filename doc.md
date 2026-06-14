@@ -40,7 +40,7 @@ Inferior-angled tiles have a midspin on their reflex side, intersecting the angl
 ### ◆12-X - Artificial Chariot but all non-horizontal segments are symmetrical
 Any track segments not comprised of horizontal tiles are altered such that they are symmetrical along the horizontal or vertical axes, or 180-degree rotation.
 
-## ◆B-X - No Thanks
+### ◆B-X - No Thanks
 - ◆1-X
 - ◆2-X
 - ◆3-X
@@ -53,3 +53,20 @@ Any track segments not comprised of horizontal tiles are altered such that they 
 - ◆11-X
 - ◆12-X
 - StopIteration
+
+## Extra Island
+Note: these levels are not in the repository yet.
+
+### ◆XF-X - Third Wave Flip Flop but the attached curse can't change any gameplay icons
+The attached curse may do this by either altering the chart or removing any wrong icons after its effect.
+
+### ◆XC-X - Credits but...
+### ◆XH-X - Final Hope but...
+### ◆PA-X - Distance but...
+### ◆XS-X - Party of Spirits but...
+### ◆XR-X - Rose Garden but...
+### ◆RJ-X - Fear Grows but...
+### ◆XN-X - Trans-Neptunian Object but...
+### ◆XM-X - Miko Skip but...
+### ◆AR-X - Libertas but...
+I'm not actually sure if I'll be able to do this one, due to copyright reasons.
