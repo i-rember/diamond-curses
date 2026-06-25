@@ -55,12 +55,15 @@ Any track segments not comprised of horizontal tiles are altered such that they 
 - StopIteration
 
 ## Extra Island
+If you think about it, each curse has a trigger and an effect.
+For example, ◆1-X has a trigger of "reflex-angled tile" and an effect of "add a 2-beat pause".
+The curses in this section change the trigger/effect of other curses.
+
 Note: these levels are not in the repository yet.
 
-### ◆XF-X - Third Wave Flip Flop but the attached curse can't change any gameplay icons
+### ◆XF-X - Third Wave Flip Flop but the attached curse's effect is applied on every tile
+### ◆XC-X - Credits but the attached curse can't change any gameplay icons
 The attached curse may do this by either altering the chart or removing any wrong icons after its effect.
-
-### ◆XC-X - Credits but...
 ### ◆XH-X - Final Hope but...
 ### ◆PA-X - Distance but...
 ### ◆XS-X - Party of Spirits but...
@@ -69,4 +72,4 @@ The attached curse may do this by either altering the chart or removing any wron
 ### ◆XN-X - Trans-Neptunian Object but...
 ### ◆XM-X - Miko Skip but...
 ### ◆AR-X - Libertas but...
-I'm not actually sure if I'll be able to do this one, due to copyright reasons.
+I'm not actually sure if I'll be able to do this one due to copyright reasons.
