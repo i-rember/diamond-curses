@@ -15,6 +15,7 @@ Straight tiles are unchanged.
 
 ### ◆4-X - Love Letters but they're actually hate letters
 Twirls are placed and removed such that all angles are inferior, switching to reflex and back after every segment of straight tiles.
+- Inverse: The switch happens on every non-straight tile.
 
 ### ◆5-X - The Midnight Train but it's slightly longer
 Every section of straight tiles has an extra straight tile appended to it.
