@@ -37,7 +37,8 @@ Speed is doubled, and all tiles have another tile with the same angle appended a
 - Inverse: Speed is halved, and every pair of tiles is merged. The angle of the tile before when the curse ends is halved.
 
 ### ◆10-X - Butterfly Planet but it's a bit off
-Any non-onbeat sections have their angles altered greatly.
+Any non-onbeat sections have their angles altered greatly. Go nuts!
+- Inverse: Non-onbeat sections are confined to a specific rhythm.
 
 ### ◆11-X - Heracles but inside angles have outside midspins
 Inside-angled tiles have a midspin on their outside side, intersecting the angle's bisector.
