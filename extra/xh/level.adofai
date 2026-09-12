@@ -209,7 +209,6 @@
     {"floor":206,"eventType":"SetText","decText":"Current attachment to ◆XH-X: ◆-X(]B+X[) (next: ]XH-X[)","tag":"curstr","angleOffset":0,"eventTag":""},
     {"floor":206,"eventType":"SetSpeed","speedType":"Multiplier","beatsPerMinute":100,"bpmMultiplier":0.3333333,"angleOffset":0},
     {"floor":206,"eventType":"PlaySound","hitsound":"Squareshot","offset":0,"playDuration":0,"pitch":100,"hitsoundVolume":100,"angleOffset":0,"eventTag":""},
-    {"floor":206,"eventType":"SetText","decText":"Current attachment to ◆-X: ◆9+X (next: ◆5-X^3)","tag":"curstr","angleOffset":0,"eventTag":""},
     {"floor":206,"eventType":"SetDefaultText","duration":1,"angleOffset":0,"ease":"Linear","levelTitleText":"◆XH-X - Final Hope but the attached curse can't change the rhythm and the attached curse is implied for the rest of the level and the current curse does not need to be shown for this level","eventTag":""},
     {"floor":206,"eventType":"SetDefaultText","duration":1,"angleOffset":15,"ease":"Linear","levelTitleText":"◆XH-X - Final Hope but the attached curse can't change the rhythm","eventTag":""},
     {"floor":210,"eventType":"ColorTrack","trackColorType":"Single","trackColor":"dd7a7aff","secondaryTrackColor":"ffffff","trackColorAnimDuration":2,"trackColorPulse":"None","trackPulseLength":10,"trackStyle":"Standard","justThisTile":true},
