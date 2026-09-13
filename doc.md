@@ -24,7 +24,7 @@ Every section of straight tiles has an extra straight tile appended to it.
 
 ### ◆6-X - PULSE but it was designed strangely
 The chart is moved one tile backwards, and speed changes are added to undo this effect.
-- Inverse: the chart is moved the other way.
+- Inverse: The chart is moved the other way.
 
 ### ◆7-X - Spin 2 Win but there are no icons
 All holds, twirls, and speed changes are removed (unless they were already hidden.)
@@ -41,7 +41,7 @@ Any non-onbeat sections have their angles altered greatly. Go nuts!
 - Inverse: Non-onbeat sections are confined to a specific rhythm.
 
 ### ◆11-X - Heracles but inside angles have outside midspins
-Inside-angled tiles have a midspin on their outside side, intersecting the angle's bisector.
+Inside-angled tiles have a midspin on their outside, intersecting the angle's bisector.
 
 ### ◆12-X - Artificial Chariot but all non-horizontal segments are symmetrical
 Any track segments not comprised of horizontal tiles are altered such that they are symmetrical along the horizontal or vertical axes, or 180-degree rotation.
